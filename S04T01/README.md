@@ -1,5 +1,5 @@
 # Sprint4
-4.1 Introducció a Spring i 4.2 API Rest amb Spring boot
+4.1 Introducció a Spring
 
 Postman amb projectes amb Maven i Gradle
 Environments:
