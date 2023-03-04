@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a831a557-8cea-4da7-b8c3-e7c7d1bd9fab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Sprint4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S04T01/.idea/S04T01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S04T02N01NBlascoVidalCarla/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S04T02N01NBlascoVidalCarla/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S04T02N01NBlascoVidalCarla/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S04T02N01NBlascoVidalCarla/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S04T02N01NBlascoVidalCarla/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S04T02N01NBlascoVidalCarla/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S04T02N01NBlascoVidalCarla/src/main/java/cat/itacademy/barcelonactiva/blascovidal/carla/s04/t02/n01/S04T02N01NBlascoVidalCarlaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S04T02N01NBlascoVidalCarla/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S04T02N01NBlascoVidalCarla/src/test/java/cat/itacademy/barcelonactiva/blascovidal/carla/s04/t02/n01/S04T02N01NBlascoVidalCarlaApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2MYhnk6vsYQmae2lnOQWRr43svQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/carla/git/Sprint4/S04T02"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a831a557-8cea-4da7-b8c3-e7c7d1bd9fab" name="Changes" comment="" />
+      <created>1677950591750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677950591750</updated>
+    </task>
+    <servers />
+  </component>
+</project>
