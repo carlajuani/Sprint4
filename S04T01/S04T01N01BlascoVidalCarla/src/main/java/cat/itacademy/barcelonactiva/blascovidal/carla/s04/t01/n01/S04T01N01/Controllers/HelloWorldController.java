@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 public class HelloWorldController {
 
-    @RequestMapping({"/HelloWorld", "/HelloWorld?nom=Carla Blasco Vidal"})
+    @RequestMapping({"/HelloWorld"})
     @ResponseBody
     public String saluda(@RequestParam(defaultValue = "UNKNOWN") String nom) {
         return "Hola, " + nom + ". Estàs executant un projecte Maven";
