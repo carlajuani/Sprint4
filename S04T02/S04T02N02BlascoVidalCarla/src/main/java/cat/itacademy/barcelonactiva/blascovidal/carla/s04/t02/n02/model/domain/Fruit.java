@@ -16,7 +16,7 @@ public class Fruit {
     @Column(name = "kilosQuantity")
     private int kilosQuantity;
 
-    public Fruit() {
+    protected Fruit() {
     }
 
     public Fruit(String name, int kilosQuantity) {
